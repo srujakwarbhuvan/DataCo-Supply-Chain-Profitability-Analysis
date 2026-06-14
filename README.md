@@ -53,7 +53,7 @@ This breaks into 5 focused sub-questions:
 - Which products contribute most to losses?
 - Which product categories generate the most revenue?
 - Which departments contribute most to profit?
-## Executive Performance Dashboard<img width="1298" height="728" alt="executive overview " src="https://github.com/user-attachments/assets/0b62ba39-7a81-406e-92cd-117e71c528b6" />
+### Executive Performance Dashboard<img width="1298" height="728" alt="executive overview " src="https://github.com/user-attachments/assets/0b62ba39-7a81-406e-92cd-117e71c528b6" />
 
 **Visuals:**
 - KPI Cards: Total Revenue, Total Profit, Loss Order %, Profit Margin %
@@ -74,7 +74,7 @@ This breaks into 5 focused sub-questions:
 - Which markets are operationally risky?
 - Where are fraud risks concentrated?
 - Which markets generate the highest loss orders?
-<img width="1296" height="728" alt="operations   Risk" src="https://github.com/user-attachments/assets/ed4ff899-a62d-45bf-9f85-bd95af8f48bf" />
+### Operations & Risk Analysis<img width="1296" height="728" alt="operations   Risk" src="https://github.com/user-attachments/assets/ed4ff899-a62d-45bf-9f85-bd95af8f48bf" />
 
 **Visuals:**
 - KPI Cards: Total Orders, Late Delivery %, Avg Shipping Delay, Fraud Orders
@@ -87,7 +87,7 @@ This breaks into 5 focused sub-questions:
 ### Page 3: Executive Summary & Recommendations
 
 Data-backed findings and 5 actionable recommendations for business stakeholders covering product profitability, discount controls, delivery operations, market risk, and order fulfillment.
-<img width="1295" height="729" alt="Summary " src="https://github.com/user-attachments/assets/ca6589b2-b5e2-4cb4-8f79-f9e34a591a31" />
+### Executive Summary & Recommendations<img width="1295" height="729" alt="Summary " src="https://github.com/user-attachments/assets/ca6589b2-b5e2-4cb4-8f79-f9e34a591a31" />
 
 ---
 ## Skills Demonstrated
